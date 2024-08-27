@@ -38,18 +38,3 @@
 //     }
 
 // }
-
-
-
-
-
-class MainClass
-{
-    public static void Main()
-    {
-        Circle c = new Circle(3);
-        Console.WriteLine(c.Diameter);
-        Console.WriteLine(c.Circumference);
-        Console.WriteLine(c.Area);
-    }
-}
